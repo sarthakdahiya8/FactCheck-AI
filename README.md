@@ -21,8 +21,8 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/sarthakdahiya8/FactCheck-AI.git](https://github.com/sarthakdahiya8/FactCheck-AI.git)
+    cd FactCheck-AI
     ```
 
 2.  **Install dependencies:**
