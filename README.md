@@ -21,7 +21,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/sarthakdahiya8/FactCheck-AI.git](https://github.com/sarthakdahiya8/FactCheck-AI.git)
+    git clone https://github.com/sarthakdahiya8/FactCheck-AI.git
     cd FactCheck-AI
     ```
 
