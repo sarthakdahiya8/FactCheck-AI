@@ -26,8 +26,8 @@ try:
     OPENROUTER_API_KEY = st.secrets.get("OPENROUTER_API_KEY", "")
     TAVILY_API_KEY = st.secrets.get("TAVILY_API_KEY", "")
 except:
-    OPENROUTER_API_KEY = ""
-    TAVILY_API_KEY = ""
+    OPENROUTER_API_KEY = "yourkeyhere"
+    TAVILY_API_KEY = "yourkeyhere"
 
 # --- DATA MODELS ---
 class VerificationResult(BaseModel):
@@ -295,3 +295,4 @@ if uploaded_file:
                 st.markdown(f"**Analysis:** :{color}[{item['correction']}]")
                 if item["source_url"] and item["source_url"] != "N/A":
                     st.link_button("Read Source", item["source_url"])
+
