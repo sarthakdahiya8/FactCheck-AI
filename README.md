@@ -1,9 +1,11 @@
 
-# App link - https://factcheck-ai.streamlit.app/
+
 
 # 🛡️ FactCheck AI
 
 **FactCheck AI** is an automated web agent that acts as a gatekeeper between your drafts and the publish button. It ingests PDF documents, extracts statistical claims and dates, and cross-references them against live web data to flag inaccuracies.
+
+## App link - https://factcheck-ai.streamlit.app/
 
 ## 🚀 Features
 
