@@ -1,5 +1,5 @@
 
-# App link -- https://factcheck-ai.streamlit.app/
+# App link - https://factcheck-ai.streamlit.app/
 
 # 🛡️ FactCheck AI
 
